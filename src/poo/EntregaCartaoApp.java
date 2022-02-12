@@ -1,9 +1,11 @@
 package poo;
+/*
+* <h1> Aplicacoo criada para demonstrar o uso de programacao orientada a objetos</h1>
+*/
+
 
 import poo.model.Cliente;
 import poo.model.Endereco;
-
-import java.util.ArrayList;
 
 public class EntregaCartaoApp {
     public static void main(String[] args) {
